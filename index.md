@@ -7,4 +7,4 @@ My favorite movie character is CAPTAIN Jack Sparrow. Ever since I watched the mo
 * clever
 * opportunist
 
-> "You will always remember this as the day you almost caught Captain Jack Sparrow."
+> You will always remember this as the day you almost caught Captain Jack Sparrow.
